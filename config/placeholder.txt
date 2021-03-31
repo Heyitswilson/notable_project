@@ -1,0 +1,1 @@
+Ensure that the config folder is commited to github
